@@ -79,6 +79,6 @@ Done
 ```
 ### **Screenshots**
 
-|Windows|Mac OSX|GUN/linux|  
-|:---:|:---:|:---:|  
-|![](https://uupload.ir/files/p3xs_1.jpg)|![](https://persepolisdm.github.io/img/screen/mac.png)|![](https://persepolisdm.github.io/img/screen/windows.png)|
+|Windows|  
+|:---:|
+|![](https://uupload.ir/files/p3xs_1.jpg)|
