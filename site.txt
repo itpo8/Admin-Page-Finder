@@ -1,0 +1,8 @@
+www.lincarsrl.it => asp   			/Login
+bkd1.balikpapan.go.id => php (joomla) 		/Administrator
+www.prokaivos.fi => php (Wordpress)		/wp-login.php
+
+
+
+
+for test
